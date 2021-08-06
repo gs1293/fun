@@ -47,7 +47,7 @@
 
 ## Softwares:
 - [QBittorrent](https://www.qbittorrent.org/)
-- [Xdman](http://xdman.sourceforge.net)
+- [Xdman](https://xtremedownloadmanager.com/)
 - [MPV](https://mpv.io/)
 - [VLC](https://www.videolan.org/)
 - [ShareX](https://getsharex.com/)
