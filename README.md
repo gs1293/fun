@@ -6,14 +6,10 @@ Curated list of websites for TV/Anime/Gaming content
 - [Hotstar](https://www.hotstar.com/)
 - [Sony LIV](https://www.sonyliv.com/)
 - [Prime Video](https://www.primevideo.com/)
-- []()
+- [Netflix](https://www.netflix.com/in/)
 
 ## Direct Download TV/Movies:
 - [PSARips](https://x265.club/)
-- []()
-- []()
-- []()
-- []()
 
 ## Anime:
 - [Anime Tosho](https://animetosho.org/search?q=1080p+x265)
@@ -33,12 +29,17 @@ Curated list of websites for TV/Anime/Gaming content
 - [Manga-py](https://github.com/manga-py/manga-py)
 - [Allmangasreader](https://www.allmangasreader.com/)
 
+## Sports:
+- [6stream]()
+- [Markkystream]()
+- [Nbabite]()
+
 ## Music:
 - [Listen.moe](https://listen.moe)
-- []()
-- []()
-- []()
-- []()
+- [Freezer]()
+- [Wynk]()
+- [Prime Music]()
+- [Spotify]()
 
 ## Games:
 - [FitGirl Repacks](https://fitgirl-repacks.site/)
@@ -48,14 +49,19 @@ Curated list of websites for TV/Anime/Gaming content
 ## Softwares:
 - [QBittorrent]()
 - [Xdman](http://xdman.sourceforge.net)
-- [MPV]()
-- [VLC]()
+- [MPV](https://mpv.io/)
+- [VLC](https://www.videolan.org/)
 - [ShareX]()
 - [AHK](https://www.autohotkey.com)
-- [Youtube-dl]()
+- [Youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html)
 
 ## Extensions:
-- []()
+- [Bitwarden]()
+- [uBlock Origin]()
+- [Extensity]()
+- [Dark Reader]()
+- [Raindrop]()
+- [SurfingKeys]()
 
 ## Typing:
 - [Monkeytype](https://monkeytype.com/)
