@@ -22,9 +22,12 @@ Curated list of websites for TV/Anime/Gaming content
 - [Nyaa](https://nyaa.si/)
 - [animEncodes](https://www.animencodes.com/)
 - [MyAnimeList](https://myanimelist.net/)
+- [HorribleSubs](https://horriblesubs.cc/)
+- [Animeraw](https://sites.google.com/view/animerawsmasterlist/home)
+- [AnimeKaizoku](https://animekaizoku.com/)
 
 ## Music:
-- []()
+- [Listen.moe](https://listen.moe)
 - []()
 - []()
 - []()
@@ -32,8 +35,8 @@ Curated list of websites for TV/Anime/Gaming content
 
 ## Games:
 - [FitGirl Repacks](https://fitgirl-repacks.site/)
-- [Steam]()
-- [EpicGames]()
+- [Steam](https://store.steampowered.com/)
+- [EpicGames](https://www.epicgames.com/store/en-US/)
 
 ## Softwares:
 - [QBittorrent]()
