@@ -1,5 +1,4 @@
-# fun
-Curated list of websites for TV/Anime/Gaming content
+# Curated list of websites for TV/Anime/Gaming etc...
 
 ## OTT Platforms:
 - [TV Time](https://www.tvtime.com/en)
@@ -30,29 +29,28 @@ Curated list of websites for TV/Anime/Gaming content
 - [Allmangasreader](https://www.allmangasreader.com/)
 
 ## Sports:
-- [6stream]()
-- [Markkystream]()
-- [Nbabite]()
+- [6stream](http://6streams.tv/)
+- [Nbabite](https://score.nbabite.com/)
 
 ## Music:
 - [Listen.moe](https://listen.moe)
-- [Freezer]()
-- [Wynk]()
-- [Prime Music]()
-- [Spotify]()
+- [Freezer](https://freezer.life/)
+- [Wynk](https://wynk.in/music)
+- [Prime Music](https://music.amazon.in/)
+- [Spotify](https://www.spotify.com/us/)
 
 ## Gaming:
 - [FitGirl Repacks](https://fitgirl-repacks.site/)
 - [Steam](https://store.steampowered.com/)
 - [EpicGames](https://www.epicgames.com/store/en-US/)
-- [Discord]()
+- [Discord](https://discord.com/)
 
 ## Softwares:
-- [QBittorrent]()
+- [QBittorrent](https://www.qbittorrent.org/)
 - [Xdman](http://xdman.sourceforge.net)
 - [MPV](https://mpv.io/)
 - [VLC](https://www.videolan.org/)
-- [ShareX]()
+- [ShareX](https://getsharex.com/)
 - [AHK](https://www.autohotkey.com)
 - [Youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html)
 
@@ -73,6 +71,7 @@ Curated list of websites for TV/Anime/Gaming content
 - [Betternet](https://www.betternet.co/)
 
 ## Torrents:
-- [RARBG]()
-- [BT4G]()
+- [RARBG](https://proxyrarbg.org/torrents.php)
+- [BT4G](https://bt4g.org/)
 - [TPB]()
+- [Unblocked](https://unblocked-pw.github.io/)
