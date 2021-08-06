@@ -51,4 +51,6 @@ Curated list of websites for TV/Anime/Gaming content
 - [Monkeytype](https://monkeytype.com/)
 - [Keybr](https://www.keybr.com/)
 
-
+## VPN:
+- [1.1.1.1](https://1.1.1.1)
+- [Betternet](https://www.betternet.co/)
