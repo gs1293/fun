@@ -63,6 +63,8 @@
 - [VirtualBox](https://www.virtualbox.org/)
 - [Sumatra PDF Reader](https://www.sumatrapdfreader.org/free-pdf-reader)
 - [Everything](https://www.voidtools.com/)
+- [WinRAR](https://www.win-rar.com/)
+- [Logitech G-hub](https://www.logitechg.com/en-us/innovation/g-hub.html)
 
 ## Extensions:
 - [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb)
