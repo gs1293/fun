@@ -62,6 +62,7 @@
 - [PowerToys](https://github.com/microsoft/PowerToys)
 - [VirtualBox](https://www.virtualbox.org/)
 - [Sumatra PDF Reader](https://www.sumatrapdfreader.org/free-pdf-reader)
+- [Everything](https://www.voidtools.com/)
 
 ## Extensions:
 - [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb)
