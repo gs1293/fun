@@ -65,6 +65,7 @@
 - [Everything](https://www.voidtools.com/)
 - [WinRAR](https://www.win-rar.com/)
 - [Logitech G-hub](https://www.logitechg.com/en-us/innovation/g-hub.html)
+- [AutoHotkey](https://www.autohotkey.com/)
 
 ## Extensions:
 - [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb)
