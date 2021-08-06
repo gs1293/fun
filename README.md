@@ -15,7 +15,6 @@
 - [Array Anime](https://arrayanime.com)
 - [Anime Twist](https://twist.moe)
 - [Nyaa](https://nyaa.si/)
-- [animEncodes](https://www.animencodes.com/)
 - [MyAnimeList](https://myanimelist.net/)
 - [HorribleSubs](https://horriblesubs.cc/)
 - [Animeraw](https://sites.google.com/view/animerawsmasterlist/home)
