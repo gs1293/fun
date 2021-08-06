@@ -26,6 +26,13 @@ Curated list of websites for TV/Anime/Gaming content
 - [Animeraw](https://sites.google.com/view/animerawsmasterlist/home)
 - [AnimeKaizoku](https://animekaizoku.com/)
 
+## Manga:
+- [Tachiyomi](https://tachiyomi.org/)
+- [TCB Scans](https://onepiecechapters.com/)
+- [Kenmei](https://www.kenmei.co/)
+- [Manga-py](https://github.com/manga-py/manga-py)
+- [Allmangasreader](https://www.allmangasreader.com/)
+
 ## Music:
 - [Listen.moe](https://listen.moe)
 - []()
@@ -57,3 +64,8 @@ Curated list of websites for TV/Anime/Gaming content
 ## VPN:
 - [1.1.1.1](https://1.1.1.1)
 - [Betternet](https://www.betternet.co/)
+
+## Torrents:
+- [RARBG]()
+- [BT4G]()
+- [TPB]()
