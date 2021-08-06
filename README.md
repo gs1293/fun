@@ -1,2 +1,54 @@
 # fun
 Curated list of websites for TV/Anime/Gaming content
+
+## OTT Platforms:
+- [TV Time](https://www.tvtime.com/en)
+- [Hotstar](https://www.hotstar.com/)
+- [Sony LIV](https://www.sonyliv.com/)
+- [Prime Video](https://www.primevideo.com/)
+- []()
+
+## Direct Download TV/Movies:
+- [PSARips](https://x265.club/)
+- []()
+- []()
+- []()
+- []()
+
+## Anime:
+- [Anime Tosho](https://animetosho.org/search?q=1080p+x265)
+- [Array Anime](https://arrayanime.com)
+- [Anime Twist](https://twist.moe)
+- [Nyaa](https://nyaa.si/)
+- [animEncodes](https://www.animencodes.com/)
+- [MyAnimeList](https://myanimelist.net/)
+
+## Music:
+- []()
+- []()
+- []()
+- []()
+- []()
+
+## Games:
+- [FitGirl Repacks](https://fitgirl-repacks.site/)
+- [Steam]()
+- [EpicGames]()
+
+## Softwares:
+- [QBittorrent]()
+- [Xdman](http://xdman.sourceforge.net)
+- [MPV]()
+- [VLC]()
+- [ShareX]()
+- [AHK](https://www.autohotkey.com)
+- [Youtube-dl]()
+
+## Extensions:
+- []()
+
+## Typing:
+- [Monkeytype](https://monkeytype.com/)
+- [Keybr](https://www.keybr.com/)
+
+
