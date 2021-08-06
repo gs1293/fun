@@ -58,6 +58,10 @@
 - [Brave](https://brave.com/)
 - [Google Chrome](https://www.google.com/intl/en_in/chrome/)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- [Honeyview](https://en.bandisoft.com/honeyview/)
+- [PowerToys](https://github.com/microsoft/PowerToys)
+- [VirtualBox](https://www.virtualbox.org/)
+- [Sumatra PDF Reader](https://www.sumatrapdfreader.org/free-pdf-reader)
 
 ## Extensions:
 - [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb)
