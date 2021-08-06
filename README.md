@@ -56,12 +56,12 @@ Curated list of websites for TV/Anime/Gaming content
 - [Youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html)
 
 ## Extensions:
-- [Bitwarden]()
-- [uBlock Origin]()
-- [Extensity]()
-- [Dark Reader]()
-- [Raindrop]()
-- [SurfingKeys]()
+- [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb)
+- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
+- [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg?hl=en)
+- [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en)
+- [Raindrop](https://chrome.google.com/webstore/detail/raindropio/ldgfbffkinooeloadekpmfoklnobpien?hl=en)
+- [SurfingKeys](https://chrome.google.com/webstore/detail/surfingkeys/gfbliohnnapiefjpjlpjnehglfpaknnc)
 
 ## Typing:
 - [Monkeytype](https://monkeytype.com/)
