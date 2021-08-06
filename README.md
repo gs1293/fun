@@ -53,6 +53,8 @@
 - [ShareX](https://getsharex.com/)
 - [AHK](https://www.autohotkey.com)
 - [Youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html)
+- [FileZilla](https://filezilla-project.org/)
+- [BleachBit](https://www.bleachbit.org/)
 
 ## Extensions:
 - [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb)
