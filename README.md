@@ -69,6 +69,7 @@
 - [Buster](https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl)
 - [tabExtend](https://chrome.google.com/webstore/detail/tabextend/ffikidnnejmibopbgbelephlpigeniph)
 - [Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji)
+- [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
 
 ## Typing:
 - [Monkeytype](https://monkeytype.com/)
