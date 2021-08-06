@@ -41,10 +41,11 @@ Curated list of websites for TV/Anime/Gaming content
 - [Prime Music]()
 - [Spotify]()
 
-## Games:
+## Gaming:
 - [FitGirl Repacks](https://fitgirl-repacks.site/)
 - [Steam](https://store.steampowered.com/)
 - [EpicGames](https://www.epicgames.com/store/en-US/)
+- [Discord]()
 
 ## Softwares:
 - [QBittorrent]()
