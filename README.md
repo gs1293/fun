@@ -55,6 +55,9 @@
 - [Youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html)
 - [FileZilla](https://filezilla-project.org/)
 - [BleachBit](https://www.bleachbit.org/)
+- [Brave](https://brave.com/)
+- [Google Chrome](https://www.google.com/intl/en_in/chrome/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
 ## Extensions:
 - [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb)
@@ -86,3 +89,10 @@
 - [BT4G](https://bt4g.org/)
 - [TPB]()
 - [Unblocked](https://unblocked-pw.github.io/)
+
+## Editors:
+- [Vim](https://www.vim.org/)
+- [Neovim](https://neovim.io/)
+- [Atom](https://atom.io/)
+- [SublimeText](https://www.sublimetext.com/)
+- [VSCode](https://code.visualstudio.com/)
