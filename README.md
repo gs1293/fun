@@ -104,3 +104,6 @@
 - [Atom](https://atom.io/)
 - [SublimeText](https://www.sublimetext.com/)
 - [VSCode](https://code.visualstudio.com/)
+
+## Wallpapers:
+- [HDQWalls](https://hdqwalls.com/)
