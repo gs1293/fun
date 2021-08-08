@@ -1,14 +1,14 @@
 # Curated list of websites for TV/Anime/Gaming etc...
 
 ## OTT Platforms:
-- [TV Time](https://www.tvtime.com/en)
 - [Hotstar](https://www.hotstar.com/)
-- [Sony LIV](https://www.sonyliv.com/)
 - [Prime Video](https://www.primevideo.com/)
+- [Sony LIV](https://www.sonyliv.com/)
 - [Netflix](https://www.netflix.com/in/)
 
 ## Direct Download TV/Movies:
 - [PSARips](https://x265.club/)
+- [TV Time](https://www.tvtime.com/en)
 
 ## Anime:
 - [Anime Tosho](https://animetosho.org/search?q=1080p+x265)
@@ -95,7 +95,6 @@
 ## Torrents:
 - [RARBG](https://proxyrarbg.org/torrents.php)
 - [BT4G](https://bt4g.org/)
-- [TPB]()
 - [Unblocked](https://unblocked-pw.github.io/)
 
 ## Editors:
