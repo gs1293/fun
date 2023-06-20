@@ -11,30 +11,47 @@
 - [Twitch](https://www.twitch.tv/)
 - [Rumble](https://rumble.com/)
 
+## Tracking:
+- [TV Time](https://www.tvtime.com/en)
+- [MyAnimeList](https://myanimelist.net/)
+
+## Social:
+- [Reddit](https://www.reddit.com/)
+- [Photon Reddit](https://photon-reddit.com/)
+- [Facebook](https://www.facebook.com/)
+- [Instagram](https://www.instagram.com/)
+- [Whatsapp Web](https://web.whatsapp.com/)
+- [Twitter](https://twitter.com/)
+
+## Piracy:
+- [Snowfl](https://snowfl.com/)
+- [Piracy Tools](https://www.reddit.com/r/piracy/wiki/megathread/tools/)
+- [Piracy Music](https://www.reddit.com/r/Piracy/wiki/megathread/music/)
+
 ## Direct Download TV/Movies:
 - [PSARips](https://psa.wf/)
-- [TV Time](https://www.tvtime.com/en)
 
 ## Anime:
 - [Anime Tosho](https://animetosho.org/search?q=1080p+x265)
+- [Nyaa](https://nyaa.si/)
+- [Nyaa proxy](https://ny.iss.one/)
 - [Array Anime](https://arrayanime.com)
 - [Anime Twist](https://twist.moe)
-- [Nyaa](https://nyaa.si/)
-- [MyAnimeList](https://myanimelist.net/)
 - [HorribleSubs](https://horriblesubs.cc/)
 - [Animeraw](https://sites.google.com/view/animerawsmasterlist/home)
 - [AnimeKaizoku](https://animekaizoku.com/)
 
 ## Manga:
 - [Tachiyomi](https://tachiyomi.org/)
-- [TCB Scans](https://onepiecechapters.com/)
+- [TCB Scans](https://tcbscans.com/mangas/5/one-piece)
 - [Kenmei](https://www.kenmei.co/)
 - [Manga-py](https://github.com/manga-py/manga-py)
 - [Allmangasreader](https://www.allmangasreader.com/)
 
 ## Sports:
-- [6stream](http://6streams.tv/)
-- [Nbabite](https://score.nbabite.com/)
+- [NBA streams](https://nbastreams.app/)
+- [NBA Bite](https://stream.nbabite.com/)
+- [Boxing Bite](https://boxingbite.net/)
 
 ## Music:
 - [YouTube Music](https://music.youtube.com/)
@@ -45,7 +62,7 @@
 - [Spotify](https://www.spotify.com/us/)
 
 ## Gaming:
-- [FitGirl Repacks](https://fitgirl-repacks.site/)
 - [Steam](https://store.steampowered.com/)
 - [EpicGames](https://www.epicgames.com/store/en-US/)
 - [Discord](https://discord.com/)
+- [FitGirl Repacks](https://fitgirl-repacks.site/)
