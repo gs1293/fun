@@ -12,7 +12,7 @@
 - [Rumble](https://rumble.com/)
 
 ## Direct Download TV/Movies:
-- [PSARips](https://x265.club/)
+- [PSARips](https://psa.wf/)
 - [TV Time](https://www.tvtime.com/en)
 
 ## Anime:
