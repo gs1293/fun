@@ -1,4 +1,4 @@
-# Curated list of websites for TV/Anime/Gaming etc...
+# Entertainment Bookmarks:
 
 ## Streaming:
 - [YouTube](https://www.youtube.com/)
