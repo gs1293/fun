@@ -60,6 +60,7 @@
 ## Music:
 - [YouTube Music](https://music.youtube.com/)
 - [Listen.moe](https://listen.moe)
+- [OST Anime](https://ostnime.com/)
 - [Freezer](https://freezer.life/)
 - [Wynk](https://wynk.in/music)
 - [Prime Music](https://music.amazon.in/)
