@@ -35,6 +35,8 @@
 - [Anime Tosho](https://animetosho.org/search?q=1080p+x265)
 - [Nyaa](https://nyaa.si/)
 - [Nyaa proxy](https://ny.iss.one/)
+- [Nyaa Judas](https://ny.iss.one/user/Judas)
+- [Nyaa Animencodes](https://ny.iss.one/user/animencodes)
 - [Array Anime](https://arrayanime.com)
 - [Anime Twist](https://twist.moe)
 - [HorribleSubs](https://horriblesubs.cc/)
