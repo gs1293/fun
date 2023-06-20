@@ -32,6 +32,7 @@
 - [PSARips](https://psa.wf/)
 
 ## Anime:
+- [Anime Streaming](https://sanji.to/home)
 - [Anime Tosho](https://animetosho.org/search?q=1080p+x265)
 - [Nyaa](https://nyaa.si/)
 - [Nyaa proxy](https://ny.iss.one/)
@@ -51,6 +52,7 @@
 - [Allmangasreader](https://www.allmangasreader.com/)
 
 ## Sports:
+- [EspnCricInfo](https://www.espncricinfo.com/)
 - [NBA streams](https://nbastreams.app/)
 - [NBA Bite](https://stream.nbabite.com/)
 - [Boxing Bite](https://boxingbite.net/)
@@ -68,3 +70,9 @@
 - [EpicGames](https://www.epicgames.com/store/en-US/)
 - [Discord](https://discord.com/)
 - [FitGirl Repacks](https://fitgirl-repacks.site/)
+
+## PC Build:
+- [PC Part Picker](https://pcpartpicker.com/)
+- [The MVP](https://themvp.in/)
+- [Build My PC](https://buildmypc.net/)
+- [PC Price Tracker](https://pcpricetracker.in/)
