@@ -1,10 +1,15 @@
 # Curated list of websites for TV/Anime/Gaming etc...
 
-## OTT Platforms:
+## Streaming:
+- [YouTube](https://www.youtube.com/)
 - [Hotstar](https://www.hotstar.com/)
 - [Prime Video](https://www.primevideo.com/)
 - [Sony LIV](https://www.sonyliv.com/)
-- [Netflix](https://www.netflix.com/in/)
+- [Netflix](https://www.netflix.com/)
+- [JioCinema](https://www.jiocinema.com/)
+- [Stremio](https://web.stremio.com/#/)
+- [Twitch](https://www.twitch.tv/)
+- [Rumble](https://rumble.com/)
 
 ## Direct Download TV/Movies:
 - [PSARips](https://x265.club/)
@@ -32,6 +37,7 @@
 - [Nbabite](https://score.nbabite.com/)
 
 ## Music:
+- [YouTube Music](https://music.youtube.com/)
 - [Listen.moe](https://listen.moe)
 - [Freezer](https://freezer.life/)
 - [Wynk](https://wynk.in/music)
