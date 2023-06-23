@@ -2,39 +2,15 @@
 
 | Streaming | Tracking | Social |
 |   :---:   |   :---:  | :---:  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-
-## Streaming:
-- [YouTube](https://www.youtube.com/)
-- [Hotstar](https://www.hotstar.com/)
-- [Prime Video](https://www.primevideo.com/)
-- [Sony LIV](https://www.sonyliv.com/)
-- [Netflix](https://www.netflix.com/)
-- [JioCinema](https://www.jiocinema.com/)
-- [Stremio](https://web.stremio.com/#/)
-- [Twitch](https://www.twitch.tv/)
-- [Rumble](https://rumble.com/)
-
-## Tracking:
-- [TV Time](https://www.tvtime.com/en)
-- [MyAnimeList](https://myanimelist.net/)
-
-## Social:
-- [Reddit](https://www.reddit.com/)
-- [Photon Reddit](https://photon-reddit.com/)
-- [Facebook](https://www.facebook.com/)
-- [Instagram](https://www.instagram.com/)
-- [Whatsapp Web](https://web.whatsapp.com/)
-- [Twitter](https://twitter.com/)
+| [YouTube](https://www.youtube.com/)        | [TV Time](https://www.tvtime.com/en)    | [Reddit](https://www.reddit.com/)         |
+| [Hotstar](https://www.hotstar.com/)        | [MyAnimeList](https://myanimelist.net/) | [Facebook](https://www.facebook.com/)     |
+| [Prime Video](https://www.primevideo.com/) |                                         | [Instagram](https://www.instagram.com/)   |
+| [Sony LIV](https://www.sonyliv.com/)       |                                         | [Whatsapp Web](https://web.whatsapp.com/) |
+| [Netflix](https://www.netflix.com/)        |                                         | [Twitter](https://twitter.com/)           |
+| [JioCinema](https://www.jiocinema.com/)    |                                         |                                           |
+| [Stremio](https://web.stremio.com/#/)      |                                         |                                           |
+| [Twitch](https://www.twitch.tv/)           |                                         |                                           |
+| [Rumble](https://rumble.com/)              |                                         |                                           |
 
 ## Piracy:
 - [Snowfl](https://snowfl.com/)
