@@ -1,8 +1,8 @@
 # Entertainment Bookmarks:
 
 ## Most Visited:
-| Streaming | Tracking | TV     | Social | 
-| :---:     | :---:    | :---:  | :---:  |
+| Streaming                                  | Tracking                                | TV                         | Social                                    |
+| :---:                                      | :---:                                   | :---:                      | :---:                                     |
 | [YouTube](https://www.youtube.com/)        | [TV Time](https://www.tvtime.com/en)    | [PSARips](https://psa.wf/) | [Reddit](https://www.reddit.com/)         |
 | [Hotstar](https://www.hotstar.com/)        | [MyAnimeList](https://myanimelist.net/) |                            | [Facebook](https://www.facebook.com/)     |
 | [Prime Video](https://www.primevideo.com/) |                                         |                            | [Instagram](https://www.instagram.com/)   |
@@ -19,14 +19,14 @@
 - [Piracy Music](https://www.reddit.com/r/Piracy/wiki/megathread/music/)
 
 ## Anime:
-| Torrents | Streaming | Manga | Music | DDL   |
-| :---:    | :---:     | :---: | :---: | :---: |
-| [Anime Tosho](https://animetosho.org/search?q=1080p+x265) | [Anime Streaming](https://sanji.to/home) | [Tachiyomi](https://tachiyomi.org/)                  | [Listen.moe](https://listen.moe) | [Animeraw](https://sites.google.com/view/animerawsmasterlist/home) |
-| [Nyaa proxy](https://ny.iss.one/)                         | [Array Anime](https://arrayanime.com)    | [TCB Scans](https://tcbscans.com/mangas/5/one-piece) | [OST Anime](https://ostnime.com/) | [AnimeKaizoku](https://animekaizoku.com/) |
-| [Nyaa Judas](https://ny.iss.one/user/Judas)               | [Anime Twist](https://twist.moe)         | [Kenmei](https://www.kenmei.co/)                     |  |  |
-| [Nyaa Animencodes](https://ny.iss.one/user/animencodes)   |                                          | [Manga-py](https://github.com/manga-py/manga-py)     |  |  |
-| [Nyaa](https://nyaa.si/)                                  |                                          | [Allmangasreader](https://www.allmangasreader.com/)  |  |  |
-| [HorribleSubs](https://horriblesubs.cc/)                  |                                          |                                                      |  |  |
+| Torrents                                                  | Streaming                                | Manga                                                | Music                             | DDL                                                                |
+| :---:                                                     | :---:                                    | :---:                                                | :---:                             | :---:                                                              |
+| [Anime Tosho](https://animetosho.org/search?q=1080p+x265) | [Anime Streaming](https://sanji.to/home) | [Tachiyomi](https://tachiyomi.org/)                  | [Listen.moe](https://listen.moe)  | [Animeraw](https://sites.google.com/view/animerawsmasterlist/home) |
+| [Nyaa proxy](https://ny.iss.one/)                         | [Array Anime](https://arrayanime.com)    | [TCB Scans](https://tcbscans.com/mangas/5/one-piece) | [OST Anime](https://ostnime.com/) | [AnimeKaizoku](https://animekaizoku.com/)                          |
+| [Nyaa Judas](https://ny.iss.one/user/Judas)               | [Anime Twist](https://twist.moe)         | [Kenmei](https://www.kenmei.co/)                     |                                   |                                                                    |
+| [Nyaa Animencodes](https://ny.iss.one/user/animencodes)   |                                          | [Manga-py](https://github.com/manga-py/manga-py)     |                                   |                                                                    |
+| [Nyaa](https://nyaa.si/)                                  |                                          | [Allmangasreader](https://www.allmangasreader.com/)  |                                   |                                                                    |
+| [HorribleSubs](https://horriblesubs.cc/)                  |                                          |                                                      |                                   |                                                                    |
 
 ## Sports:
 - [EspnCricInfo](https://www.espncricinfo.com/)
