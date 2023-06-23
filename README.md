@@ -1,5 +1,18 @@
 # Entertainment Bookmarks:
 
+| Streaming | Tracking | Social |
+|   :---:   |   :---:  | :---:  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+
 ## Streaming:
 - [YouTube](https://www.youtube.com/)
 - [Hotstar](https://www.hotstar.com/)
