@@ -13,11 +13,6 @@
 | [Twitch](https://www.twitch.tv/)           |                                         |                            |                                           |
 | [Rumble](https://rumble.com/)              |                                         |                            |                                           |
 
-## Piracy:
-- [Snowfl](https://snowfl.com/)
-- [Piracy Tools](https://www.reddit.com/r/piracy/wiki/megathread/tools/)
-- [Piracy Music](https://www.reddit.com/r/Piracy/wiki/megathread/music/)
-
 ## Anime:
 | Torrents                                                  | Streaming                                | Manga                                                | Music                             | DDL                                                                |
 | :---:                                                     | :---:                                    | :---:                                                | :---:                             | :---:                                                              |
@@ -33,6 +28,11 @@
 - [NBA streams](https://nbastreams.app/)
 - [NBA Bite](https://stream.nbabite.com/)
 - [Boxing Bite](https://boxingbite.net/)
+
+## Piracy:
+- [Snowfl](https://snowfl.com/)
+- [Piracy Tools](https://www.reddit.com/r/piracy/wiki/megathread/tools/)
+- [Piracy Music](https://www.reddit.com/r/Piracy/wiki/megathread/music/)
 
 ## Music:
 - [YouTube Music](https://music.youtube.com/)
