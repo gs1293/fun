@@ -1,5 +1,6 @@
 # Entertainment Bookmarks:
 
+## Most Visited:
 | Streaming | Tracking | TV     | Social | 
 | :---:     | :---:    | :---:  | :---:  |
 | [YouTube](https://www.youtube.com/)        | [TV Time](https://www.tvtime.com/en)    | [PSARips](https://psa.wf/) | [Reddit](https://www.reddit.com/)         |
@@ -18,24 +19,14 @@
 - [Piracy Music](https://www.reddit.com/r/Piracy/wiki/megathread/music/)
 
 ## Anime:
-- [Anime Streaming](https://sanji.to/home)
-- [Anime Tosho](https://animetosho.org/search?q=1080p+x265)
-- [Nyaa](https://nyaa.si/)
-- [Nyaa proxy](https://ny.iss.one/)
-- [Nyaa Judas](https://ny.iss.one/user/Judas)
-- [Nyaa Animencodes](https://ny.iss.one/user/animencodes)
-- [Array Anime](https://arrayanime.com)
-- [Anime Twist](https://twist.moe)
-- [HorribleSubs](https://horriblesubs.cc/)
-- [Animeraw](https://sites.google.com/view/animerawsmasterlist/home)
-- [AnimeKaizoku](https://animekaizoku.com/)
-
-## Manga:
-- [Tachiyomi](https://tachiyomi.org/)
-- [TCB Scans](https://tcbscans.com/mangas/5/one-piece)
-- [Kenmei](https://www.kenmei.co/)
-- [Manga-py](https://github.com/manga-py/manga-py)
-- [Allmangasreader](https://www.allmangasreader.com/)
+| Torrents | Streaming | Manga | Music | DDL   |
+| :---:    | :---:     | :---: | :---: | :---: |
+| [Anime Tosho](https://animetosho.org/search?q=1080p+x265) | [Anime Streaming](https://sanji.to/home) | [Tachiyomi](https://tachiyomi.org/)                  | [Listen.moe](https://listen.moe) | [Animeraw](https://sites.google.com/view/animerawsmasterlist/home) |
+| [Nyaa proxy](https://ny.iss.one/)                         | [Array Anime](https://arrayanime.com)    | [TCB Scans](https://tcbscans.com/mangas/5/one-piece) | [OST Anime](https://ostnime.com/) | [AnimeKaizoku](https://animekaizoku.com/) |
+| [Nyaa Judas](https://ny.iss.one/user/Judas)               | [Anime Twist](https://twist.moe)         | [Kenmei](https://www.kenmei.co/)                     |  |  |
+| [Nyaa Animencodes](https://ny.iss.one/user/animencodes)   |                                          | [Manga-py](https://github.com/manga-py/manga-py)     |  |  |
+| [Nyaa](https://nyaa.si/)                                  |                                          | [Allmangasreader](https://www.allmangasreader.com/)  |  |  |
+| [HorribleSubs](https://horriblesubs.cc/)                  |                                          |                                                      |  |  |
 
 ## Sports:
 - [EspnCricInfo](https://www.espncricinfo.com/)
@@ -45,8 +36,6 @@
 
 ## Music:
 - [YouTube Music](https://music.youtube.com/)
-- [Listen.moe](https://listen.moe)
-- [OST Anime](https://ostnime.com/)
 - [Freezer](https://freezer.life/)
 - [Wynk](https://wynk.in/music)
 - [Prime Music](https://music.amazon.in/)
