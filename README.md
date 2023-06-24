@@ -52,3 +52,6 @@
 - [The MVP](https://themvp.in/)
 - [Build My PC](https://buildmypc.net/)
 - [PC Price Tracker](https://pcpricetracker.in/)
+
+## Wallpapers:
+- [HDQWalls](https://hdqwalls.com/)
