@@ -1,17 +1,17 @@
 # Entertainment Bookmarks:
 
 ## Most Visited:
-| Streaming                                  | Tracking                                | TV                         | Social                                    |
-| :---:                                      | :---:                                   | :---:                      | :---:                                     |
-| [YouTube](https://www.youtube.com/)        | [TV Time](https://www.tvtime.com/en)    | [PSARips](https://psa.wf/) | [Reddit](https://www.reddit.com/)         |
-| [Hotstar](https://www.hotstar.com/)        | [MyAnimeList](https://myanimelist.net/) |                            | [Facebook](https://www.facebook.com/)     |
-| [Prime Video](https://www.primevideo.com/) |                                         |                            | [Instagram](https://www.instagram.com/)   |
-| [Sony LIV](https://www.sonyliv.com/)       |                                         |                            | [Whatsapp Web](https://web.whatsapp.com/) |
-| [Netflix](https://www.netflix.com/)        |                                         |                            | [Twitter](https://twitter.com/)           |
-| [JioCinema](https://www.jiocinema.com/)    |                                         |                            |                                           |
-| [Stremio](https://web.stremio.com/#/)      |                                         |                            |                                           |
-| [Twitch](https://www.twitch.tv/)           |                                         |                            |                                           |
-| [Rumble](https://rumble.com/)              |                                         |                            |                                           |
+| Streaming                                  | Tracking                                | TV                         | Social                                    | Music                                       |
+| :---:                                      | :---:                                   | :---:                      | :---:                                     | :---:                                       |
+| [YouTube](https://www.youtube.com/)        | [TV Time](https://www.tvtime.com/en)    | [PSARips](https://psa.wf/) | [Reddit](https://www.reddit.com/)         | [YouTube Music](https://music.youtube.com/) |
+| [Hotstar](https://www.hotstar.com/)        | [MyAnimeList](https://myanimelist.net/) |                            | [Facebook](https://www.facebook.com/)     | [Prime Music](https://music.amazon.in/)     |
+| [Prime Video](https://www.primevideo.com/) |                                         |                            | [Instagram](https://www.instagram.com/)   | [Spotify](https://www.spotify.com/us/)      |
+| [Sony LIV](https://www.sonyliv.com/)       |                                         |                            | [Whatsapp Web](https://web.whatsapp.com/) | [Wynk](https://wynk.in/music)               |
+| [Netflix](https://www.netflix.com/)        |                                         |                            | [Twitter](https://twitter.com/)           | [Freezer](https://freezer.life/)            |
+| [JioCinema](https://www.jiocinema.com/)    |                                         |                            |                                           |                                             |
+| [Stremio](https://web.stremio.com/#/)      |                                         |                            |                                           |                                             |
+| [Twitch](https://www.twitch.tv/)           |                                         |                            |                                           |                                             |
+| [Rumble](https://rumble.com/)              |                                         |                            |                                           |                                             |
 
 ## Anime:
 | Torrents                                                  | Streaming                                | Manga                                                | Music                             | DDL                                                                |
@@ -33,13 +33,6 @@
 - [Snowfl](https://snowfl.com/)
 - [Piracy Tools](https://www.reddit.com/r/piracy/wiki/megathread/tools/)
 - [Piracy Music](https://www.reddit.com/r/Piracy/wiki/megathread/music/)
-
-## Music:
-- [YouTube Music](https://music.youtube.com/)
-- [Freezer](https://freezer.life/)
-- [Wynk](https://wynk.in/music)
-- [Prime Music](https://music.amazon.in/)
-- [Spotify](https://www.spotify.com/us/)
 
 ## Gaming:
 - [Steam](https://store.steampowered.com/)
