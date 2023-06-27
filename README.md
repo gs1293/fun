@@ -1,17 +1,17 @@
 # Entertainment Bookmarks:
 
 ## Most Visited:
-| Streaming                                  | Tracking                                | TV                         | Social                                    | Music                                       |
-| :---:                                      | :---:                                   | :---:                      | :---:                                     | :---:                                       |
-| [YouTube](https://www.youtube.com/)        | [TV Time](https://www.tvtime.com/en)    | [PSARips](https://psa.wf/) | [Reddit](https://www.reddit.com/)         | [YouTube Music](https://music.youtube.com/) |
-| [Hotstar](https://www.hotstar.com/)        | [MyAnimeList](https://myanimelist.net/) |                            | [Facebook](https://www.facebook.com/)     | [Prime Music](https://music.amazon.in/)     |
-| [Prime Video](https://www.primevideo.com/) |                                         |                            | [Instagram](https://www.instagram.com/)   | [Spotify](https://www.spotify.com/us/)      |
-| [Sony LIV](https://www.sonyliv.com/)       |                                         |                            | [Whatsapp Web](https://web.whatsapp.com/) | [Wynk](https://wynk.in/music)               |
-| [Netflix](https://www.netflix.com/)        |                                         |                            | [Twitter](https://twitter.com/)           | [Freezer](https://freezer.life/)            |
-| [JioCinema](https://www.jiocinema.com/)    |                                         |                            |                                           |                                             |
-| [Stremio](https://web.stremio.com/#/)      |                                         |                            |                                           |                                             |
-| [Twitch](https://www.twitch.tv/)           |                                         |                            |                                           |                                             |
-| [Rumble](https://rumble.com/)              |                                         |                            |                                           |                                             |
+| Streaming                                  | Tracking                                | TV                         | Social                                    | Music                                       | Sports                                        |
+| :---:                                      | :---:                                   | :---:                      | :---:                                     | :---:                                       | :---:                                         |
+| [YouTube](https://www.youtube.com/)        | [TV Time](https://www.tvtime.com/en)    | [PSARips](https://psa.wf/) | [Reddit](https://www.reddit.com/)         | [YouTube Music](https://music.youtube.com/) | [EspnCricInfo](https://www.espncricinfo.com/) |
+| [Hotstar](https://www.hotstar.com/)        | [MyAnimeList](https://myanimelist.net/) |                            | [Facebook](https://www.facebook.com/)     | [Prime Music](https://music.amazon.in/)     | [NBA streams](https://nbastreams.app/)        |
+| [Prime Video](https://www.primevideo.com/) |                                         |                            | [Instagram](https://www.instagram.com/)   | [Spotify](https://www.spotify.com/us/)      | [NBA Bite](https://stream.nbabite.com/)       |
+| [Sony LIV](https://www.sonyliv.com/)       |                                         |                            | [Whatsapp Web](https://web.whatsapp.com/) | [Wynk](https://wynk.in/music)               | [Boxing Bite](https://boxingbite.net/)        |
+| [Netflix](https://www.netflix.com/)        |                                         |                            | [Twitter](https://twitter.com/)           | [Freezer](https://freezer.life/)            |                                               |
+| [JioCinema](https://www.jiocinema.com/)    |                                         |                            |                                           |                                             |                                               |
+| [Stremio](https://web.stremio.com/#/)      |                                         |                            |                                           |                                             |                                               |
+| [Twitch](https://www.twitch.tv/)           |                                         |                            |                                           |                                             |                                               |
+| [Rumble](https://rumble.com/)              |                                         |                            |                                           |                                             |                                               |
 
 ## Anime:
 | Torrents                                                  | Streaming                                | Manga                                                | Music                             | DDL                                                                |
@@ -22,12 +22,6 @@
 | [Nyaa Animencodes](https://ny.iss.one/user/animencodes)   |                                          | [Manga-py](https://github.com/manga-py/manga-py)     |                                   |                                                                    |
 | [Nyaa](https://nyaa.si/)                                  |                                          | [Allmangasreader](https://www.allmangasreader.com/)  |                                   |                                                                    |
 | [HorribleSubs](https://horriblesubs.cc/)                  |                                          |                                                      |                                   |                                                                    |
-
-## Sports:
-- [EspnCricInfo](https://www.espncricinfo.com/)
-- [NBA streams](https://nbastreams.app/)
-- [NBA Bite](https://stream.nbabite.com/)
-- [Boxing Bite](https://boxingbite.net/)
 
 ## Piracy:
 - [Snowfl](https://snowfl.com/)
